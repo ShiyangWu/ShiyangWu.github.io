@@ -1,8 +1,8 @@
 # Welcome to HomePage of ShiyangWu
 
-## [Algebra](https://shiyangwu.github.io/)
+## [Algebra](https://shiyangwu.github.io/Blog/Algebra/index)
 
-## Topology
+## [Topology](https://shiyangwu.github.io/Blog/Topology/index)
 
 ## Analysis
 
