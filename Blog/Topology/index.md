@@ -1,6 +1,6 @@
 # Topology
 
-## [Germ of a Function](https://) 
+## [Germ of a Function](https://shiyangwu.github.io/Blog/Topology/Germ) 
 
 
 
