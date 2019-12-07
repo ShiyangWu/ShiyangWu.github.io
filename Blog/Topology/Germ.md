@@ -14,7 +14,7 @@
 
 In topology,the notion of germ focuses on the local properties of topological spaces.
 
-Definition 1(Germ)
+**Definition 1(Germ)**
 
 Given a point $x$ of a topological space $X$, and two maps $f$ and $g$, then and define the same germ at x if 
 (1).there is a neighbourhood U of x such that restricted to U, $f(U) = g(U)$; 
