@@ -1,6 +1,7 @@
 # Welcome to home of Cugtyt
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
             tex2jax: {
@@ -8,7 +9,8 @@
             inlineMath: [['$','$']]
             }
         });
- </script>
+    </script>
+</head>
 
 ## Contact me
 
