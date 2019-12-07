@@ -3,4 +3,4 @@
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
-* Blog -> [ShiyangWu@GitHub](https://shiyangwu.github.io/)
+* Blog -> [ShiyangWu.github.io](https://shiyangwu.github.io/)
