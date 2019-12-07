@@ -14,7 +14,7 @@
 
 ## Contact me
 
-$x^56$
+$$x^56$$
 
 * Blog -> <https://cugtyt.github.io/blog/index>
 * Email -> <cugtyt@qq.com>, <cugtyt@gmail.com>
