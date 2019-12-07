@@ -1,6 +1,6 @@
 # TableContent of Topology
 
-## germ of a function 
+## Germ of a Function 
 
 
 
