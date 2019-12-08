@@ -12,11 +12,14 @@
     </script>
 </head>
 
-In topology,the notion of germ focuses on the local properties of topological spaces.
 
+In topology,the notion of germ focuses on the local properties of topological spaces.Before introducing it, 
+
+```
 **Definition 1(Germ)**
 
 Given a point $x$ of a topological space $X$, and two maps $f$ and $g$, then and define the same germ at $x$ if there is a neighbourhood $U$ of $x$ such that restricted to $U$, $f(U) = g(U)$.
+```
 
 ## Contact me
 
