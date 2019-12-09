@@ -1,6 +1,5 @@
-# Welcome to HomePage of ShiyangWu
 
-> From the axiomatic point of view, mathematics appears thus as a storehouse of abstract forms—the mathematical structures; and it so happens—without our knowing how—that certain aspects of empirical reality fit themselves into these forms, as if through a kind of preadaptation.
+> From the axiomatic point of view, mathematics appears thus as a storehouse of abstract forms—the mathematical structures; and it so happens—without our knowing how—that certain aspects of empirical reality fit themselves into these forms, as if through a kind of preadaptation.   ----Nicolas Bourbaki. _The Architecture of Mathematics_
 
 ## [Algebra](https://shiyangwu.github.io/Blog/Algebra/index)
 
