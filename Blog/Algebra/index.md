@@ -1,6 +1,6 @@
 # Algebra
 
-Linear Algebra---From the View of Category Theory
+## Linear Algebra---From the View of Category Theory
 
 ## Contact me
 
