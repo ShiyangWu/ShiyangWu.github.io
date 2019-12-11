@@ -10,7 +10,7 @@ In category theory, Grothendieck universe is a set $U$ with the following proper
 
 3. If $x$ and $y$ are both elements of $U$, then ${x,y}$ is an element of $U$.
 
-4. If $\{ x_{\alpha } \}$ $_{\alpha \in I} $
+4. If {$x_{\alpha }$} $_{\alpha \in I} $
 
 5. is a family of elements of $U$, and if $I$ is an element of $U$, then the Union $\cup_{\alpha \in I} x_{\alpha}$ is an element of $U$.
 
