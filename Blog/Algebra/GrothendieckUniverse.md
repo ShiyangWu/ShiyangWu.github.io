@@ -2,7 +2,7 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
-In category theory, Grothendieck universe is a set $U$ with the following properties:
+In category theory, **Grothendieck universe** is a set $U$ with the following properties:
 
 1. If $x$ is an element of $U$ and if $y$ is an element of $x$, then $y$ is also an element of $U$.
 
