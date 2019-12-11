@@ -6,7 +6,7 @@ Linear algebra is the branch of mathematics concerning linear equations, linear 
 
 ## What is Category Theory?
 
-Category theory is a branch of mathematics that seeks to generalize all of mathematics in terms of categories.
+Category theory is a branch of mathematics that seeks to generalize all of mathematics in terms of categories and then reveals deep insights and similarities between seemingly different areas of mathematics.
 
 ## References
 
