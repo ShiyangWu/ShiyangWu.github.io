@@ -2,7 +2,7 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
-Linear algebra is the branch of mathematics concerning linear equations, linear functions and their representations through matrices and vector spaces.$^{[1]}$ Linear algebra is central to almost all areas of mathematics and widely used in most sciences and engineering areas, for it allows modeling many natural phenomena and efficiently computing with such models.
+Linear algebra is the branch of mathematics concerning linear equations, linear functions and their representations through matrices and vector spaces.$^{[1]}$ Linear algebra is central to almost all areas of mathematics and widely used in most sciences and engineering areas, for it allows modeling many natural phenomena and efficiently computing with such models. We assume that the readers are familiar with the basic notions of linear algebra. This article dose not aim to introduce them, but to emphersize how to understande them.
 
 
 # References
