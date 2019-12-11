@@ -12,7 +12,7 @@ In category theory, Grothendieck universe is a set $U$ with the following proper
 
 4. If 
 
-<center> ${$ $ x_{\alpha } $ $}$ $_{ \alpha \in I}$ </center>
+<center> {$ x_{\alpha } $} $_{ \alpha \in I}$ </center>
 
 is a family of elements of $U$, and if $I$ is an element of $U$, then the Union $\mathop{\cup}\limits_{\alpha \in I} x_{\alpha}$ is an element of $U$.
 
