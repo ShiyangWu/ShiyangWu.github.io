@@ -2,10 +2,13 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
+Linear algebra is the branch of mathematics concerning linear equations, linear functions and their representations through matrices and vector spaces.$^{[1]}$
+
 
 # References
 
-[1] Lane S M . Categories. For the Working Mathematician[J]. Graduate Texts in Mathematics, 1971, 5(9):349-361.
+[1] Banerjee, Sudipto; Roy, Anindya (2014), Linear Algebra and Matrix Analysis for Statistics, Texts in Statistical Science (1st ed.), Chapman and Hall/CRC, ISBN 978-1420095388.
+[2] Lane, S. M. (1971), Categories. for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
 
 ## Contact me
 
