@@ -1,5 +1,17 @@
 # Grothendieck Universe
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
+
+In category theory, Grothendieck universe is a set $U$ with the following properties:
+
+1. If $x$ is an element of $U$ and if $y$ is an element of $x$, then $y$ is also an element of $U$.
+
+2. If $x$ is an element of $U$, then $P(x)$, the power set of $x$, is also an element of $U$.
+
+3. If $x$ and $y$ are both elements of $U$, then ${x,y}$ is an element of $U$.
+
+4. If ${x_{\alpha}}_{\alpha \in I}$ is a 
+
 ## References
 
 [1] Wenwei Li, Methods in Algebra (Volume 1): A Chinese textbook on Algebra, Higher Education Press (Beijing), ISBN 978-7-04-050725-6. https://github.com/wenweili/AlJabr-1.
