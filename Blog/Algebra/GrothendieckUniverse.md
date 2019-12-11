@@ -12,7 +12,7 @@ Definition 1(Grothendieck Universe)
 
 **3. If $x$ and $y$ are both elements of $U$, then ${x,y}$ is an element of $U$.**
 
-**4. If **
+**4. If**
 
 **<center> {$ x_{\alpha } $} $_{ \alpha \in I}$ </center>**
 
