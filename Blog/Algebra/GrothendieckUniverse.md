@@ -12,6 +12,8 @@ In category theory, Grothendieck universe is a set $U$ with the following proper
 
 4. If $\{x_{\alpha}\}_{\alpha \in I}$ is a family of elements of $U$, and if $I$ is an element of $U$, then the Union $\cup_{\alpha \in I} x_{\alpha}$ is an element of $U$.
 
+Elements of a Grothendieck universe are sometimes called small sets.
+
 ## References
 
 [1] Wenwei Li, Methods in Algebra (Volume 1): A Chinese textbook on Algebra, Higher Education Press (Beijing), ISBN 978-7-04-050725-6. https://github.com/wenweili/AlJabr-1.
