@@ -16,7 +16,7 @@ In category theory, Grothendieck universe is a set $U$ with the following proper
 
 is a family of elements of $U$, and if $I$ is an element of $U$, then the Union $\mathop{\cup}\limits_{\alpha \in I} x_{\alpha}$ is an element of $U$.
 
-Elements of a Grothendieck universe are sometimes called small sets.
+Elements of a Grothendieck universe are sometimes called **small sets**. The idea of universes is due to Alexander Grothendieck, who used them as a way of avoiding proper classes in algebraic geometry.
 
 ## References
 
