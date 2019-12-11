@@ -1,6 +1,6 @@
 # Algebra
 
-## [Linear Algebra---From the View of Category Theory](https://github.com/ShiyangWu/ShiyangWu.github.io/Blog/Algebra/LinearAlgebra---FromtheViewofCategoryTheory.md)
+## [Linear Algebra---From the View of Category Theory]((https://shiyangwu.github.io/Blog/Algebra/LinearAlgebra---FromtheViewofCategoryTheory.md)
 
 ## Contact me
 
