@@ -1,6 +1,6 @@
 # Computational Complexity Theory
 
-## [A Brief Introduction on Algebraic Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/AlgebraicComplexityTheory)
+## [A Brief Introduction to Algebraic Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/AlgebraicComplexityTheory)
 
 ## Contact me
 
