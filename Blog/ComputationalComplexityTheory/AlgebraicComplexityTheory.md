@@ -1,1 +1,1 @@
-# A Brief Introduction on Algebraic Complexity Theory
+# A Brief Introduction to Algebraic Complexity Theory
