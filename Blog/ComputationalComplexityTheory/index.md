@@ -4,6 +4,8 @@
 
 ## [A Brief Introduction to Descriptive Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/DescriptiveComplexityTheory)
 
+## [Finite Model Theory and Its Applications in Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/FiniteModelTheory)
+
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
