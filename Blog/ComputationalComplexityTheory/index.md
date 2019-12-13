@@ -1,8 +1,8 @@
 # Computational Complexity Theory
 
-## [A Brief Introduction to Algebraic Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/AlgebraicComplexityTheory)
+## [Algebraic Complexity Theory---An Introduction](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/AlgebraicComplexityTheory)
 
-## [A Brief Introduction to Descriptive Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/DescriptiveComplexityTheory)
+## [Descriptive Complexity Theory---An Introduction](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/DescriptiveComplexityTheory)
 
 ## [Finite Model Theory and Its Applications in Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/FiniteModelTheory)
 
