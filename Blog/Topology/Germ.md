@@ -34,7 +34,7 @@ The elements of $τ$ are called **open sets** and the collection $τ$ is called 
 
 ## References
 
-[1] Munkres J R . Topology: A First Course[M]. Prentice-Hall, 1974.
+[1] Munkres, J. R. . (1974). Topology: A First Course. Prentice-Hall.
 
 ## Contact me
 
