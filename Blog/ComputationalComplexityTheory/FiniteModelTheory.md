@@ -1,4 +1,4 @@
-# Finite Model Theory and Its Applications in Computational Complexity Theory
+# Finite Model Theory and Its Applications
 
 ## Contact me
 
