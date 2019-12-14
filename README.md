@@ -12,6 +12,10 @@
 
 ## [Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/index)
 
+## Model Theory
+
+## Category Theory
+
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
