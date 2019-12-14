@@ -12,9 +12,9 @@
 
 ## [Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/index)
 
-## Model Theory
+## [Model Theory](https://shiyangwu.github.io/Blog/ModelTheory/index)
 
-## Category Theory
+## [Category Theory](https://shiyangwu.github.io/Blog/CategoryTheory/index)
 
 ## Contact me
 
