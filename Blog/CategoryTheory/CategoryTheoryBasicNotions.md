@@ -20,7 +20,7 @@ A **category** $C$ consists of
 
 For every three objects $a$, $b$ and $c$, a binary operation $hom(a, b) \times hom(b, c) \rightarrow hom(a, c)$ called composition of morphisms; the composition of $f : a → b$ and $g : b → c$ is written as $g ∘ f$.
 
-3.**(associativity)** If $f : a \rigntharrow b$, $g : b \rigntharrow c$ and $h : c → d$ then $h ∘ (g ∘ f) = (h ∘ g) ∘ f$.
+3.**(associativity)** If $f : a \rightarrow b$, $g : b \rightarrow c$ and $h : c → d$ then $h ∘ (g ∘ f) = (h ∘ g) ∘ f$.
 
 4.**(identity)** For every object $x$, there exists a morphism $1x : x → x$ called **the identity morphism for $x$**, such that for every morphism $f : a → x$ and every morphism $g : x → b$, we have $1x ∘ f = f$ and $g ∘ 1x = g$.
 
