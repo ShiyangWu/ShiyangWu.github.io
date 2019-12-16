@@ -24,6 +24,10 @@ For every three objects $a$, $b$ and $c$, a binary operation $hom(a, b) \times h
 
 4.**(identity)** For every object $x$, there exists a morphism $1x : x → x$ called **the identity morphism for $x$**, such that for every morphism $f : a → x$ and every morphism $g : x → b$, we have $1x ∘ f = f$ and $g ∘ 1x = g$.
 
+**Definition 2(Functor)**
+
+**Definition 3(Natural Transformation)**
+
 ## References
 
 [1] Lane, S. M. (1971), Categories. for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
