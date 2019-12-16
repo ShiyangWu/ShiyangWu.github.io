@@ -16,9 +16,9 @@ A **category** $C$ consists of
 
 1.a class $ob(C)$ of objects
 
-2.a class $hom(C)$ of morphisms between the objects. Each morphism f has a source object a and a target object b where a and b are in ob(C). We write f: a → b, and we say "f is a morphism from a to b". We write hom(a, b) to denote the hom-class of all morphisms from a to b. 
+2.a class $hom(C)$ of morphisms between the objects. Each morphism f has a source object a and a target object b where a and b are in $ob(C)$. We write $f: a \rightarrow b$, and we say "f is a morphism from a to b". $hom(a, b)$ denotes the hom-class of all morphisms from $a$ to $b$. 
 
-for every three objects a, b and c, a binary operation hom(a, b) × hom(b, c) → hom(a, c) called composition of morphisms; the composition of f : a → b and g : b → c is written as g ∘ f or gf.
+for every three objects $a$, $b$ and $c$, a binary operation $hom(a, b) \times hom(b, c) \rightarrow hom(a, c)$ called composition of morphisms; the composition of f : a → b and g : b → c is written as g ∘ f or gf.
 
 3.(associativity) if f : a → b, g : b → c and h : c → d then h ∘ (g ∘ f) = (h ∘ g) ∘ f
 
