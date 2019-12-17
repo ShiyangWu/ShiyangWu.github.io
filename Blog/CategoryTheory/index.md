@@ -1,6 +1,6 @@
 # Category Theory
 
-## [Category Theory ------- Basic Notions](https://shiyangwu.github.io/Blog/CategoryTheory/CategoryTheoryBasicNotions)
+## [Category Theory --- Basic Notions](https://shiyangwu.github.io/Blog/CategoryTheory/CategoryTheoryBasicNotions)
 
 ## Contact me
 
