@@ -8,7 +8,7 @@ Linear algebra is the branch of mathematics concerning linear equations, linear 
 
 [1] Banerjee, Sudipto; Roy, Anindya (2014), Linear Algebra and Matrix Analysis for Statistics, Texts in Statistical Science (1st ed.), Chapman and Hall/CRC, ISBN 978-1420095388.
 
-[2] Lane, S. M. (1971), Categories. for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
+[2] Lane, S. M. (1971), Categories for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
 
 ## Contact me
 
