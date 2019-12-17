@@ -14,7 +14,7 @@
 
 **Definition 1(Presheaf)**
 
- If $X$ is a topological space, then the open sets in $X$ form a partially ordered set $P(X)$ under inclusion. Like every partially ordered set, $P(X)$ forms a small category by adding a single arrow $U \rightarrow V$ if and only if $U \subset V$. 
+ If $X$ is a topological space, then the open sets in $X$ form a partially ordered set $P(X)$ under inclusion. $P(X)$ forms a small category by adding a single arrow $U \rightarrow V$ if and only if $U \subset V$. 
  
  Contravariant functors on $P(X)$ are called **presheaves** on $X$. 
 
