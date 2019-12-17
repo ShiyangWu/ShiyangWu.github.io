@@ -18,6 +18,7 @@
  
  Contravariant functors on $P(X)$ are called **presheaves** on $X$. 
 
+**Definition(Sheaf)**
 
 ## Contact me
 
