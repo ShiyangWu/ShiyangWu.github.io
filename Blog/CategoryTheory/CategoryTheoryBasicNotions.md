@@ -41,6 +41,10 @@ the later whenever the composite $g \circ f$ is defined in $C$.
 
 **Definition 3(Natural Transformation)**
 
+A **natural tranformation** is a morphism of functors.
+
+
+
 ## References
 
 [1] Lane, S. M. (1971), Categories. for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
