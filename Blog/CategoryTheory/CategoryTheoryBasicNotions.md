@@ -8,7 +8,7 @@ Category theory is a branch of mathematics that seeks to generalize all of mathe
 
 ## History
 
-Category theory first appeared in a paper entitled _General Theory of Natural Equivalences_, written by Samuel Eilenberg and Saunders Mac Lane in 1945.$^{[1]}$Categories, functors and natural transformations were discovered by Eilenberg and Mac Lane in their study of limits for universal coefficients theorems in $\check{C}$ech cohomology. Also in this paper, commutative diagrams for the first time appeared in print.
+Category theory first appeared in a paper entitled _General Theory of Natural Equivalences_, written by Samuel Eilenberg and Saunders Mac Lane in 1945.$^{[1]}$Categories, functors and natural transformations were discovered by Eilenberg and Mac Lane in their study of limits for universal coefficients theorems in $\check{C}ech$ cohomology. Also in this paper, commutative diagrams for the first time appeared in print.$^{[1]}$
 
 ## Basic Notions
 
