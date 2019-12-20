@@ -30,7 +30,11 @@ For every three objects $a$, $b$ and $c$, a binary operation $hom(a, b) \times h
 
 A **functor** is a morphism of categories.
 
-For categories $C$ and $B$ a **functor** $T: C \rightarrow B$ with domain $C$ and codomain $B$ consists of two suitably related functions. The object function $T$, which assigns to each object $c$ of $C$ an object $Tc$ of $B$ and arrow function which assigns to each arrow $f:c \rightarrow c'$ of $C$ an arrow $Tf: Tc \rightarow Tc'$ of $B$ 
+For categories $C$ and $B$ a **functor** $T: C \rightarrow B$ with domain $C$ and codomain $B$ consists of two suitably related functions. The object function $T$, which assigns to each object $c$ of $C$ an object $Tc$ of $B$ and arrow function which assigns to each arrow $f:c \rightarrow c'$ of $C$ an arrow $Tf: Tc \rightarrow Tc'$ of $B$, then
+
+<center>$T(1_c)=1_{Tc}, T(g \circ f)= Tg \circ Tf$</center>
+
+the later whenever the composite $g \circ f$ is defined in $C$.
 
 **Definition 3(Natural Transformation)**
 
