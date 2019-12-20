@@ -34,6 +34,7 @@ For categories $C$ and $B$ a **functor** $T: C \rightarrow B$ with domain $C$ an
 
 <center>$T(1_c)=1_{Tc}$<\center>
 
+
 <center>$T(g \circ f)= Tg \circ Tf$<\center>
 
 the later whenever the composite $g \circ f$ is defined in $C$.
