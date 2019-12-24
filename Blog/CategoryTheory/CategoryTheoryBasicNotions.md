@@ -43,7 +43,7 @@ the later whenever the composite $g \circ f$ is defined in $C$.
 
 A **natural tranformation** is a morphism of functors.
 
-
+Given two functors $S,T:C \rightarrow B$, a natural tranformation $\tau : S \rightarrow T$ is a function witch assigns to each object $c$ of $C$ an arrow $\tau_c = \tau c: Sc \rightarrow Tc$ of $B$ in such a way that every arrow $f:c \rightarrow c'$ in $C$ yields a diagram
 
 ## References
 
