@@ -49,6 +49,8 @@ Given two functors $S,T:C \rightarrow B$, a natural tranformation $\tau : S \rig
 
  ![NT02](https://github.com/ShiyangWu/ShiyangWu.github.io/blob/master/Blog/Pictures/CommutativeDiagram/NaturalTransformation_02.png) 
 
+which is commutative.
+
 ## References
 
 [1] Lane, S. M. (1971), Categories. for the working mathematician. Graduate Texts in Mathematics, 5(9), 349-361.
