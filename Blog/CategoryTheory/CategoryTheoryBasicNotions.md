@@ -47,7 +47,7 @@ Given two functors $S,T:C \rightarrow B$, a natural tranformation $\tau : S \rig
 
  ![NT01](https://github.com/ShiyangWu/ShiyangWu.github.io/blob/master/Blog/Pictures/CommutativeDiagram/NaturalTransformation_01.png) 
 
- ![NT02](https://shiyangwu.github.io/Blog/Pictures/CommutativeDiagram/NaturalTransformation_02.png) 
+ ![NT02](https://github.com/ShiyangWu/ShiyangWu.github.io/blob/master/Blog/Pictures/CommutativeDiagram/NaturalTransformation_02.png) 
 
 ## References
 
