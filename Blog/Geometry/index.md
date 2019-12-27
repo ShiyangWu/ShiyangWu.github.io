@@ -1,6 +1,6 @@
 # Geometry
 
-[The Correspondence Between Ideals And Algebraic Varieties](https://shiyangwu.github.io/Blog/Geometry/IdealAndAlgebraicVariety)
+## [The Correspondence Between Ideals And Algebraic Varieties](https://shiyangwu.github.io/Blog/Geometry/IdealAndAlgebraicVariety)
 
 ## Contact me
 
