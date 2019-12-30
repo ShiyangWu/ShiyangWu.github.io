@@ -2,6 +2,8 @@
 
 ## [The Correspondence Between Ideals And Algebraic Varieties](https://shiyangwu.github.io/Blog/Geometry/IdealAndAlgebraicVariety)
 
+## [Algebraic Cycle](https://shiyangwu.github.io/Blog/Geometry/AlgebraicCycle)
+
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
