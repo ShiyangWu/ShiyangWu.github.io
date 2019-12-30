@@ -20,6 +20,28 @@ An **algebraic cycle $C$** in $X$ is given by additional polytnomial equations:
 
 5.The **Hodge Conjecture** concerns algebraic cycles in projective manifolds.
 
+6.In Euclidean geometry, we meet the basic shapes such as triangles, edges and vertices. in algebraic topology, they are called **simplices**, which are characterized by their **dimension**.
+
+7.The **boundary** of a simplex is a union of simplices, called a **chain**. Chains are formal sums of simplices.
+
+8.Chain and cycles are **oriented**.
+
+9.A cycle is a chain with zero boundary.
+
+10.Topological cycles are **homologous** if their "difference" is a boundary.
+
+11.Topological cycles up to equivalence comprise a homology class.
+
+12.Cycles of complementary dimension have an **intersection number** which depends only on their homology classes.
+
+13.A **differential form** of degree $k$ is a linear functional of $k$ vectors at each point $p$.
+
+14.**Differentiation** $d$ acts analogously to the boundary $\partial$.
+
+11.Intersection numbers are **integrals of differential forms** over smooth topological cycles.
+
+12.
+
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
