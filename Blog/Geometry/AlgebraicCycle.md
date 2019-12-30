@@ -2,7 +2,7 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
-This article aims to note some basic facts (with informal definitions) on aglbraic cycles in complex algebraic geometry.
+This article aims to note some basic facts (with informal definitions) on algebraic cycles in complex algebraic geometry.
 
 1.An **algebraic cycle** in $CP^n$ is the set of solutions to polynomial equations.
 
@@ -14,6 +14,11 @@ This article aims to note some basic facts (with informal definitions) on aglbra
 
 <center> $X: P_1(x^1,x^2,...,x^n) = P_2(x^1,x^2,...,x^n) = ... = P_s(x^1,x^2,...,x^n) = 0$ </center>
 
+An **algebraic cycle $C$** in $X$ is given by additional polytnomial equations:
+
+<center> $C: Q_1(x^1,x^2,...,x^n) = Q_2(x^1,x^2,...,x^n) = ... = Q_t(x^1,x^2,...,x^n) = 0$ </center>
+
+5.The **Hodge Conjecture** concerns algebraic cycles in projective manifolds.
 
 ## Contact me
 
