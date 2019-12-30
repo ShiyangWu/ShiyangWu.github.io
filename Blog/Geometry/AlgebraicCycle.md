@@ -38,9 +38,11 @@ An **algebraic cycle $C$** in $X$ is given by additional polytnomial equations:
 
 14.**Differentiation** $d$ acts analogously to the boundary $\partial$.
 
-11.Intersection numbers are **integrals of differential forms** over smooth topological cycles.
+15.Intersection numbers are **integrals of differential forms** over smooth topological cycles.
 
-12.
+16.On smooth spaces there is a duality between homology classes of topological cycles and equivalence classes of differential forms.
+
+17.**Hodge Conjecture**: Let $X$ be a **projective manifold**. Then a **topological cycle $C$** on $X$ is homologous to a rational combination of **algebraic cycles** if and only if $C$ has rotation number zero.
 
 ## Contact me
 
