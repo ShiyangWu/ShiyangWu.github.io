@@ -22,7 +22,7 @@ Elements of a Grothendieck universe are sometimes called **small sets**. The ide
 
 ## References
 
-[1] Wenwei Li, Methods in Algebra (Volume 1): A Chinese textbook on Algebra, Higher Education Press (Beijing), ISBN 978-7-04-050725-6. [Wenwei Li](https://github.com/wenweili/AlJabr-1).
+[1] Wenwei Li, Methods in Algebra (Volume 1): A Chinese textbook on Algebra, Higher Education Press (Beijing), ISBN 978-7-04-050725-6. [https://github.com/wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1).
 
 ## Contact me
 
