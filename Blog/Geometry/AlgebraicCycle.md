@@ -10,7 +10,7 @@ This article aims to note some basic facts (with informal definitions) on algebr
 
 3.A smooth algebraic cycle in $CP^n$is called a **projective manifold**.
 
-4.A **projective manifold $X$** is defined by (smooth) polynomail euations:
+4.A **projective manifold $X$** is defined by (smooth) polynomial euations:
 
 <center> $X: P_1(x^1,x^2,...,x^n) = P_2(x^1,x^2,...,x^n) = ... = P_s(x^1,x^2,...,x^n) = 0$ </center>
 
