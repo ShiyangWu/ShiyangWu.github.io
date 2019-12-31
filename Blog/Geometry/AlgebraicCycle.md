@@ -6,7 +6,7 @@ This article aims to note some basic facts (with informal definitions) on algebr
 
 1.An **algebraic cycle** in $CP^n$ is the set of solutions to polynomial equations.
 
-2.A cycle is **smooth** if it looks **"flat"** under a microscope(that is locally).
+2.A cycle is **smooth** if it looks **"flat"** under a microscope(locally flat).
 
 3.A smooth algebraic cycle in $CP^n$is called a **projective manifold**.
 
