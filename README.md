@@ -10,11 +10,11 @@
 
 ## [Geometry](https://shiyangwu.github.io/Blog/Geometry/index)
 
-## [Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/index)
-
 ## [Model Theory](https://shiyangwu.github.io/Blog/ModelTheory/index)
 
 ## [Category Theory](https://shiyangwu.github.io/Blog/CategoryTheory/index)
+
+## [Computational Complexity Theory](https://shiyangwu.github.io/Blog/ComputationalComplexityTheory/index)
 
 ## Contact me
 
