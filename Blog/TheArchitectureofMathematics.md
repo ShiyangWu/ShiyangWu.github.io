@@ -1,6 +1,6 @@
 # The Architecture of Mathematics
 
-Nicolas Bourbaki
+**Nicolas Bourbaki**
 
 ## References
 
