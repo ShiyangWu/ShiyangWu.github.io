@@ -2,6 +2,10 @@
 
 **Nicolas Bourbaki**
 
+## 1.Mathematic or mathematics?
+
+To present a view of the entire field of mathematical science as it exitsts---this is a enterprise which presents, at 
+
 ## References
 
 [1] Bourbaki, N. . (1950). The architecture of mathematics. The American Mathematical Monthly, 57(4), 221-232.
