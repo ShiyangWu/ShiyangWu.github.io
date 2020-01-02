@@ -1,5 +1,7 @@
 # The Architecture of Mathematics$^{[1]}$
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
+
 **Nicolas Bourbaki**
 
 ## 1.Mathematic or mathematics?
@@ -8,7 +10,7 @@ To present a view of the entire field of mathematical science as it exitsts---th
 
 It must therefore be out of the question to give to the uninitiated an exact picture of that which the mathematicians themselves can not conceive in its totality. Nevertheless it is legitimate to ask whether this exuberant proliferation makes for the development of a strongly constructed organism, acquiring ever greater cohesion and unity with its new growths, or whether it is the external manifestation of a tendency towards a progressive splintering, inherent in the very nature of mathematics, whether the domain of mathematics is not becoming a tower of Babel, in which autonomous disciplines are being more and more widely separated from one another, not only in their aims, but also in their methods or do we have several mathematics?
 
-
+Although this question is perhaps of greater urgency now than ever before, it is by no means a new one; it has been asked almost from the very begining of mathematical science. Indeed, quite apart from applied mathematics, there has always existed a dualism between the origins of geometry and of arithmetic(certainly in their elementary aspects), since the latter was at the start a science of discrete magnitude, while the former has 
 
 ## References
 
