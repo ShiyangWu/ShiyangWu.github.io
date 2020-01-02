@@ -2,7 +2,7 @@
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
-<center> **Nicolas Bourbaki** </center>
+**Nicolas Bourbaki** 
 
 ## 1.Mathematic or mathematics?
 
@@ -12,7 +12,11 @@ It must therefore be out of the question to give to the uninitiated an exact pic
 
 Although this question is perhaps of greater urgency now than ever before, it is by no means a new one; it has been asked almost from the very begining of mathematical science. Indeed, quite apart from applied mathematics, there has always existed a dualism between the origins of geometry and of arithmetic(certainly in their elementary aspects), since the latter was at the start a science of discrete magnitude, while the former has always been a science of continuous extent; these two aspects have brought about two points of view which have been in opposition to each other since the discovery of irrationals. Indeed, it is exactly this discovery which defeated the first attempt to unify the science, viz., the arithmetization of the Pythagoreans("everything is number").
 
-It would carry us too far if we were to attempt to follow the vicssitudes of the unitary conception of mathematics from the period of Pythagoras to the present time. Moreover this task would suit a philosopher better than a mathematician; for it is a common characteristic of the various attempts to integrate the whole of mathematics into a coherent whole---whether we think of Plato, of Descartes or of Leibnitz, of arthmetization, or of the logistics of the 19th century---that they have all been made in connection with a philosophical system, more 
+It would carry us too far if we were to attempt to follow the vicssitudes of the unitary conception of mathematics from the period of Pythagoras to the present time. Moreover this task would suit a philosopher better than a mathematician; for it is a common characteristic of the various attempts to integrate the whole of mathematics into a coherent whole---whether we think of Plato, of Descartes or of Leibnitz, of arthmetization, or of the logistics of the 19th century---that they have all been made in connection with a philosophical system, more or less wide in scope; always starting from a priori views concerning the relations of mathematics with the twofold universe of the external world and the world of thought. We can do better on this point than to refer the reader to the historical and critical study of L. Brunschvicg. Our task is a more modest and a less extensive one; we shall not undertake to examine the relations of mathematics to reality or to the great categories of thought; we intend to remain within the field of mathematics and we shall look for an answer to the question which we have raised, by analyzing the procedures of mathematics themselves.
+
+## 2.Logical formalism and axiomatic method
+
+After the more or less evident bankruptcy of the different systems, to which we have referred above, it looked, at the beginning of the present century as if the attempt had just about been abandoned to conceive of mathematics as a science characterized by a definitely specified purpose and method; instead there was a tendency to look upon mathematics as "a collection of disciplines based on particular, exactly specified concepts" interrelated by "a thousand roads of communication" allowing the methods of any one of these disciplines to fertilize one or more of the others. Today, we believe however that the internal evolution of mathematical science has, in spite of appearance, brought about a closer unity among its different parts, so as to create something like a central nucleus that is more coherent than it has ever been. The essential aspect of this evolution has been the systematic and which has led to what is generally known as the "axiomatic method".
 
 ## References
 
