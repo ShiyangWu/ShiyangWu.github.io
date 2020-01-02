@@ -1,8 +1,8 @@
-# The Architecture of Mathematics$^{[1]}$
+# The Architecture of Mathematics$^{1}$
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script>
 
-**Nicolas Bourbaki**
+<center>**Nicolas Bourbaki**</center>
 
 ## 1.Mathematic or mathematics?
 
