@@ -1,4 +1,4 @@
-# Ideal And Algebraic Variety
+# Ideal and Algebraic Variety
 
 ## Contact me
 
