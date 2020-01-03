@@ -1,5 +1,8 @@
 # Model Theory
 
+## Classical Model Theory
+
+## Finite Model Theory
 
 ## Contact me
 
