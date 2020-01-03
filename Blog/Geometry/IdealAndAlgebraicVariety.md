@@ -1,4 +1,4 @@
-# The Correspondence Between Ideals And Algebraic Varieties
+# Ideal And Algebraic Variety
 
 ## Contact me
 
