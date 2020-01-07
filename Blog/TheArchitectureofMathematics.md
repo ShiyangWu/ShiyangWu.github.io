@@ -74,7 +74,7 @@ To maintain a correct perspective, we must at once add to this rapid sketch, the
 
 ## 7.Return to the past and conclusion
 
-The concept which we have tried to present in the above paragraphs, was not formed all at once; 
+The concept which we have tried to present in the above paragraphs, was not formed all at once; rather is it stage in an evolution, which has been in progress for more than a half-century, and which has not escaped serious opposition, among philosophers as well as among mathematics
 
 ## References
 
