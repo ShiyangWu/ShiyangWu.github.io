@@ -68,7 +68,13 @@ To maintain a correct perspective, we must at once add to this rapid sketch, the
 
 **Schematic**---because in the actual procedures, things do not happen in as simple and as systematic a manner as has been described above. There occur, among other things, unexpected reverse movements, in which a specialized theory, such as the theory of real numbers, lends indispensable aid in the construction of a general theory like topology or integration.
 
-**Idealied**---because it is far from true that in all fields of mathematics, the role of each of the great structures is clearly recognized and marked off; in certain theories ()
+**Idealied**---because it is far from true that in all fields of mathematics, the role of each of the great structures is clearly recognized and marked off; in certain theories (for example in the theory of numbers), there remain numerous isolated results, which it has thus far not been possible to classify, nor to conect in a satisfactory way with known structures.
+
+**Frozen**---for nothing is farther from the axiomatic method than a static conception of the science. We do not want to lead the reader to think that we claim to habe traced out a definitive state of the science. The structures are not immutable, neither in number nor in their essential contents. It is quite possible that the future development of mathematics may increase the number of fundamental structures, revealing the fruitfulness of new axioms, or of new combinations of axioms. We can look forward to important progress from the invention of structures, by considering the progress which has resulted from actually known structures. On the other hand, these are by no means finished edifices; it would indeed be very surprsing if all the essence had already been extracted from their principles. Thus, with these indispensable qualifications, we can become better aware of the internal life of mathematics, of its unity as well as of its diversity. It is like a big city, whose outlying districts and suburbs encroach incessantly, and in a somewhat chaotic manner, on the surrounding country, while the center is rebuilt from time to time, each time in accordance with a more clearly conceived plan and a more majestic order, tearing down the old sections with their labyrinths of alleys, and projecting towards the periphery new avenues, more direct, broader and more commodious.
+
+## 7.Return to the past and conclusion
+
+The concept which we have tried to present in the above paragraphs, was not formed all at once; 
 
 ## References
 
