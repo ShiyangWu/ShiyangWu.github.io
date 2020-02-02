@@ -4,6 +4,8 @@
 
 ## [Algebraic Cycle](https://shiyangwu.github.io/Blog/Geometry/AlgebraicCycle)
 
+## [Dessins d’enfants and Belyi's Theorem](https://shiyangwu.github.io/Blog/Geometry/Dessinsdenfants)
+
 ## Contact me
 
 * Email -> <wusy@fosu.edu.cn>
