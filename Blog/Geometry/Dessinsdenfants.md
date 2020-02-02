@@ -14,7 +14,7 @@ A dessins d’enfant, or simply a dessin, is a pair $(X, D)$ where $X$ is an ori
 
 2.$D$ is **bicoloured**, i.e. the vertices have been given either white or black colour and vertices connected by an edge have different colours.
 
-3.$X \ D$ is the union of finitely many topological discs, which we call **faces** of $D$.
+3.$X \backslash D$ is the union of finitely many topological discs, which we call **faces** of $D$.
 
 The **genus** of $(X,D)$ is simply the genus of $X$.
 
