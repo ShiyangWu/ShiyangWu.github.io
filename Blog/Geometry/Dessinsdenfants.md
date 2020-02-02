@@ -18,6 +18,10 @@ A dessins d’enfant, or simply a dessin, is a pair $(X, D)$ where $X$ is an ori
 
 The **genus** of $(X,D)$ is simply the genus of $X$.
 
+**Definition 2(Equivalence between two dessins)**
+
+Two dessins $(X_1,D_1)$ and $(X_2,D_2)$ are equivalent when there exists an orientation-preserving homeomorphism from $X_1$ to $X_2$ whose restriction to $D_1$ induces an isomorphism between the coloured graphs $D_1$ and $D_2$.
+
 ## Belyi's Theorem
 
 ## Basic Idea of Anabelian Geometry
